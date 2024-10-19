@@ -4,7 +4,7 @@ yourselfhosted/slash
 roundcube/roundcubemail
 eclipse-mosquitto
 gitlab/gitlab-ce
-mamohr/subversion-edge'
+mamohr/subversion-edge
 mongo
 mysql/mysql-server
 
