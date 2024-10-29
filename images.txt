@@ -10,6 +10,7 @@ mysql/mysql-server
 ghcr.io/linkwarden/linkwarden
 postgres:16-alpine
 sissbruecker/linkding
+zadam/trilium
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
