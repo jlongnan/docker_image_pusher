@@ -11,6 +11,7 @@ ghcr.io/linkwarden/linkwarden
 postgres:16-alpine
 sissbruecker/linkding
 zadam/trilium
+triliumnext/notes
 ghcr.io/facundoolano/feedi
 
 #支持私库
