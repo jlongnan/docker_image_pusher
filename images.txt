@@ -13,6 +13,7 @@ sissbruecker/linkding
 zadam/trilium
 triliumnext/notes
 ghcr.io/facundoolano/feedi
+grafana/grafana-oss
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
